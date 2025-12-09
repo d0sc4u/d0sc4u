@@ -1,24 +1,32 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Nelo</h1>
-<p align="center">
-  Senior Full‑Stack • Blockchain • AI Engineer
-</p>
+## I'm a Full-Stack Web3 Developer 👋
 
-<p align="center">
+### About Me
+- Building **full-stack projects** on **Solana, Sui, and EVM chains**.  
+- Specializing in **Rust** and **Solidity** smart contracts.  
+- Previously worked on the **Bittensor AI network**, achieving **#1 miner ranking** for a long time.  
+- Currently developing **blockchain casino games**, **Polymarket platforms with bots** and **trading bots/tools** for **BNB, Monad, Solana**, and more.  
+
+
+### 🛠 Projects
+- **Casino Games on Blockchain** – Smart contracts + front-end | back-end for multiplayer gaming  
+- **Trading Bots & Tools** – Automated trading for BNB, Monad, and Solana
+- **Bittensor AI Mining** – Python algorithms for decentralized AI network, ranked #1 miner  
+
+### Connect with Me
   <a href="mailto:nelo.labhart@gmail.com">
     <img src="https://img.shields.io/badge/Email-nelo.labhart@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/its0xopsdev">
-    <img src="https://img.shields.io/badge/Telegram-@its0xopsdev-2AABEE?style=flat&logo=telegram&logoColor=white" />
+  <a href="https://t.me/d0sc4u">
+    <img src="https://img.shields.io/badge/Telegram-d0sc4u-2AABEE?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/0xopsdev">
-    <img src="https://img.shields.io/badge/Twitter-@0xopsdev-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://x.com/d0sc4u">
+    <img src="https://img.shields.io/badge/Twitter-d0sc4u-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
-</p>
+  <a href="https://discord.com/d0sc4u">
+    <img src="https://img.shields.io/badge/Discord-d0sc4u-1DA1F2?style=flat&logo=discord&logoColor=white" />
+  </a>
 
 ---
 
-
-
-I’m a senior Web3 engineer and full‑stack developer focused on high‑impact blockchain products and AI‑augmented experiences. I ship secure smart‑contract systems, performant dApps, and polished UIs with a strong emphasis on reliability, scalability, and developer ergonomics.
-
+### ⚡ Fun Fact
+I love building at the intersection of **blockchain, gaming, trading, and AI**—always exploring the next big innovation!  
