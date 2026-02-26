@@ -19,12 +19,6 @@
   <a href="https://t.me/d0sc4u">
     <img src="https://img.shields.io/badge/Telegram-d0sc4u-2AABEE?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://x.com/d0sc4u">
-    <img src="https://img.shields.io/badge/Twitter-d0sc4u-1DA1F2?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="https://discord.com/d0sc4u">
-    <img src="https://img.shields.io/badge/Discord-d0sc4u-1DA1F2?style=flat&logo=discord&logoColor=white" />
-  </a>
 
 ---
 
