@@ -1,4 +1,4 @@
-## I'm a Full-Stack Web3 Developer 👋
+## I'm a Full-Stack Web3 and AI Engineer 👋
 
 ### About Me
 - Building **full-stack projects** on **Solana, Sui, and EVM chains**.  
